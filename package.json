@@ -1,0 +1,15 @@
+{
+  "name": "improved-objects",
+  "version": "0.0.0",
+  "description": "Small quality of life improvements for JavaScript",
+  "main": "index.js",
+  "author": "TheWarmFuzzy",
+  "license": "ISC",
+  "bugs": {},
+  "keywords": [],
+  "files": [
+    "index.js",
+    "package.json",
+    "lib/*"
+  ]
+}
