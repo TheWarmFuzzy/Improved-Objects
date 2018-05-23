@@ -5,11 +5,15 @@
   "main": "index.js",
   "author": "TheWarmFuzzy",
   "license": "ISC",
-  "bugs": {},
+  "bugs": {
+    "url": "https://github.com/TheWarmFuzzy/Improved-Objects",
+    "email": "jt_nelson@rogers.com"
+  },
   "keywords": [],
   "files": [
     "index.js",
     "package.json",
     "lib/*"
-  ]
+  ],
+  "repository": "https://github.com/TheWarmFuzzy/Improved-Objects"
 }
