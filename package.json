@@ -1,6 +1,6 @@
 {
   "name": "improved-objects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Small quality of life improvements for JavaScript",
   "main": "index.js",
   "author": "TheWarmFuzzy",
